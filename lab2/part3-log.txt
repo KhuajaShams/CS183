@@ -1,0 +1,3 @@
+10/15/21 04:13:02 - File /root/lab2/part3-test has been found
+10/15/21 04:16:33 - File path /root/lab2/part3-test has been lost
+10/15/21 04:17:00 - File /root/lab2/part3-test has been found
