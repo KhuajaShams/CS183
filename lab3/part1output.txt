@@ -1,3 +1,16 @@
+/bin/mount
+/bin/chage
+/bin/gpasswd
+/bin/newgrp
+/bin/su
+/bin/umount
+/bin/crontab
+/bin/pkexec
+/bin/passwd
+/bin/sudo
+/sbin/pam_timestamp_check
+/sbin/unix_chkpwd
+/sbin/grub2-set-bootflag
 /usr/bin/mount
 /usr/bin/chage
 /usr/bin/gpasswd
