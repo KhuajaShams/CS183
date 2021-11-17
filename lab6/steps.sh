@@ -35,3 +35,11 @@ yum -y install httpd
 #rpm -ivh mysql-community-release-el7-5.noarch.rpm
 #yum update
 
+#systemctl start mysqld.service
+#mysql_secure_installation
+#yes for everything
+
+#vi mysql.txt
+
+#mysql -u root -p < mysql.txt
+
