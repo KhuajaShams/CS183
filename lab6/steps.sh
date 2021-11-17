@@ -31,6 +31,8 @@ yum -y install httpd
 
 #vi /var/www/html/index.php
 
+#RESTART httpd.service and elinks http://127.0.0.1/index.php
+
 #wget http://repo.mysql.com/mysql-community-release-el7-5.noarch.rpm
 #rpm -ivh mysql-community-release-el7-5.noarch.rpm
 #yum update
